@@ -1,0 +1,57 @@
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\bin\Debug\Room Management DavidT.exe.config
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\bin\Debug\Room Management DavidT.exe
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\bin\Debug\Room Management DavidT.pdb
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.BrisanjeKorisnika.resources
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.DodavanjeKor.resources
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Form1.resources
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Pregled.resources
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Prijava.resources
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.UredivanjeKorisnika.resources
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.exe
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.pdb
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Rezerviranje.resources
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\bin\Debug\Room Management DavidT.exe.config
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\bin\Debug\Room Management DavidT.exe
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\bin\Debug\Room Management DavidT.pdb
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.BrisanjeKorisnika.resources
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.DodavanjeKor.resources
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Form1.resources
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Pregled.resources
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Prijava.resources
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Properties.Resources.resources
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Rezerviranje.resources
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.UredivanjeKorisnika.resources
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.exe
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.pdb
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.BrisanjeRezervacije.resources
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\bin\Debug\Room Management DavidT.exe.config
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\bin\Debug\Room Management DavidT.exe
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\bin\Debug\Room Management DavidT.pdb
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.BrisanjeKorisnika.resources
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.BrisanjeRezervacije.resources
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.DodavanjeKor.resources
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Form1.resources
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Pregled.resources
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Prijava.resources
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Properties.Resources.resources
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Rezerviranje.resources
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.UredivanjeKorisnika.resources
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.exe
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room Management DavidT.pdb
+C:\Users\ucenik\source\repos\roommngdado1604\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Konfig.resources
+C:\Users\MSI\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Konfig.resources
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.BrisanjeRezervacije.resources
+C:\Users\ucenik\source\repos\Room-Manager-master\Room Management DavidT\obj\Debug\Room_Management_DavidT.Konfig.resources
